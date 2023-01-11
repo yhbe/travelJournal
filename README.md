@@ -1,6 +1,6 @@
 # Travel Journal
 
-This project is rendering of a Travelers Journal
+This project is a rendering of a Travelers Journal
 
 # Goal
 
