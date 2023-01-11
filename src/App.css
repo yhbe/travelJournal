@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.section{
+  padding: 50px 0px 0px 100px;
+}
+
 .nav--container{
   display: flex;
   height: 75px;
@@ -15,4 +19,46 @@
 
 .nav--globe{
   font-size: 36px;
+}
+
+.card--container{
+  display: flex;
+}
+
+.card--image{
+  object-fit: cover;
+  width: 168.75px;
+  height: 201px;
+  border-radius: 5px;
+}
+
+.card--text-container{
+  margin-left: 25px;
+}
+
+.card--description-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.card--text-description{
+  width: 500px;
+  line-height: 150%;
+  margin-top: 5px;
+}
+
+.card--gray{
+  color: gray;
+  text-decoration: underline;
+}
+
+.app--container{
+  width: 960px;
+  margin: auto;
+}
+
+.spaced-out{
+  letter-spacing: 3px;
 }
