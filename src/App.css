@@ -1,0 +1,18 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.nav--container{
+  display: flex;
+  height: 75px;
+  background-color: #F55A5A;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.nav--globe{
+  font-size: 36px;
+}
