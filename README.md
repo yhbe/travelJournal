@@ -1,6 +1,8 @@
 # Travel Journal
 
-This project is a rendering of a Travelers Journal
+This project is a rendering of a Travelers Journal.
+
+Created with React, Vite, Javascript, JSX, HTML, CSS
 
 # Goal
 
